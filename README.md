@@ -5,7 +5,7 @@
 <p> In this repository we created the page that shows the result of our work in the final project in partnership with the company Aranda. </p>
 
 <h2> Link to the landing Page </h2>
-<a href = 'https://twitter.com/MahaLaksmyY'> Lest go!! </a>
+<a href = 'https://mahalaksmy.github.io/LandingPageCapstoneProject/'> Lest go!! </a>
 
 <h2> Tools to the project </h2>
 - <img src = "https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" width = 32px>
