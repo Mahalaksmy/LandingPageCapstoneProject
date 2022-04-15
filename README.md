@@ -8,9 +8,9 @@
 <a href = 'https://mahalaksmy.github.io/LandingPageCapstoneProject/'> Lest go!! </a>
 
 <h2> Tools to the project </h2>
-- <img src = "https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" width = 32px>
-- <img src = "https://desarrolloweb.com/storage/tag_images/actual/JAReJfLkSfxegmxRnpRe0Q2pXeOObMboo9MT0QuH.png" width = 32px>
-- <img src = "https://sg.com.mx/sites/default/files/styles/570x500/public/images/selenium-logo.png?itok=ulUIFNXO" width = 32px>
+<img src = "https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" width = 100px>
+<img src = "https://desarrolloweb.com/storage/tag_images/actual/JAReJfLkSfxegmxRnpRe0Q2pXeOObMboo9MT0QuH.png" width = 100px>
+<img src = "https://sg.com.mx/sites/default/files/styles/570x500/public/images/selenium-logo.png?itok=ulUIFNXO" width = 100px>
 
 <h2> contributors <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 Shirley Carcamo <a href = 'https://twitter.com/Shirley45125098'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <br>
